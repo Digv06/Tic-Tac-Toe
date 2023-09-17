@@ -1,0 +1,13 @@
+.block{
+    border: 1.5px solid black;
+    border-radius: 5px;
+    cursor: pointer;
+    height: 70px;
+    width: 70px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 40px;
+    font-weight: 300;
+}
